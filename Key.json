@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lyrical-nectar-382119",
+  "private_key_id": "21833f62e7c07ab1954f06eded6a6805a9caaa7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHbwLXVORrYjky\nj3Al1xyWZjO39HTlxNEJbKMmLoAv0ETWU3IQ2oWlC1+1gOmHaMPLXfox9iwwFB7Q\n+/A7ug/wrkyVcmqgRN980OGcG+mA55dYZVfL9j3TDy976DcdkM+ZbaQShUHeF13e\nFnyrgnsO0Qzut0OaS7PIzud8tMdx4iV+SwI8QZaNbNMdYMVqgmbnIxE0T1GS95Po\n+i3ILmwApcEKVdAkIFjJV6iY72JUYMwu6iZ2t9+dqsVmQuWWbzG9DUXns/tMMuTf\nJmDHsluY2sexLFlg9TmPB4/EgG0Bwi0GO65BnO3bS2ArV1f+EDLsHr2wbtXciqAG\nkG7xZ9TRAgMBAAECggEAA9IyWWfXUeC5kdNtEFHfyq3oncSsR165q+w4mq8CERMf\neS/IxrPjzaFl0wzGQgGVhsb6goyMlNs91T6OgBvKLxACiEvUk9Td/Kk6jrV7iCxn\nxO95etSb+KLuLk8+XG2oMfCyLRH/4hPL3kkgrbSRS7ELsLiILg5Ml94G/L0F+T5A\nVBWD97xIpzBSj5nj0NPdED8botvkA6Ox0O3+B9BjljzzEHj8uZyXAvUSj0b/JqsN\nrEiLQBYMnqjub0AmnWT24xMqSk3lFs0XiE+MUCErM6OYF9Z7ywzXXFMdzg8pbwJl\nKYmSiQ32VpTj14P387x/63sjBtfohb1PtcqQYStNsQKBgQDq2cyFvc9IRqr1gn49\nfZeATuV2vxU+v+SAkIG2X86EmyE9TuY/hmrHBWGyiwwqIl2koI1+y0qpEip9nTsN\nnx0l72z9DOTCAL2AKuKhkc4eqG/CGx4FWcgN5HcqX5OV/9LytE3HuXCBs4Z9a6dy\nt4z8GO/c7S/thFLjve01YKzpnQKBgQDZZLZ5P6thNV1n6pOLyeqVSzVnfufNMd4/\nMAGdb6DtLlyhEnrxECe/qXCWxd+796mD+qTJP6ayslQ5V0jW50zS6fRGYWXOzDQE\nZIhk0scVj/VfRXm1x5Ljh0Ok97j0d3hD6nuC6akdR8yL83E13dUJ1xz4JPvCBRH+\nqIoLnJ6bxQKBgDrw7qOiP6OkGMQFPCmym5NYOb7TtkFJZ8/cdLGQ2gPt6ym345GN\n6r6IWzy0KRlqBpaKtPhdjR9hr8hW7bs9c9NRg8j+s2r9RJImMTrbnR+UpnfQ1ngB\nUHQsIrw/wIqk6gx/tAWsRNBIfjh8DEp+RqP+njSUUrMJwsPlpuL+oGcBAoGAb+Y9\nXu/9AU58w+6lAAFxNGPAG4PhQWf35EKLskQxa6S/nVFr4wXTz/4hrBoybgivQvYT\nOFwBLF5KqDFblvL8QlyWlluwEeBerhwpcOxl+Z1eSiny2jTeUSvhD9tLYtrUFvFt\nnhc0K5Q3n5oxne6PqD8H9FrlFBuUBacvV4bIxZkCgYEAkiQ/4QfC0yZTL+43p13D\nEIHdtYxeGnYtjrMA3bol9enBWoJ8PxdoNZhHhbEkfw7JlgKyMivxGxPUGyLok6UI\nlKoCcFnRDrDF2REU5aYA58Aeh7YZHJ/huSFDIiVrhiAKDG+2ELkuWTijDA/kpuLP\ncqGz7C1oVA87QwppFYMhoeM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "readdocsg@lyrical-nectar-382119.iam.gserviceaccount.com",
+  "client_id": "101178906269553263520",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/readdocsg%40lyrical-nectar-382119.iam.gserviceaccount.com"
+}

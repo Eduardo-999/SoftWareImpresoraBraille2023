@@ -1,0 +1,317 @@
+
+{
+    'title': 'Texto1',
+        'body': {
+        'content': [
+            {
+                'endIndex': 1,
+                'sectionBreak':
+                {
+                    'sectionStyle':
+                        { 'columnSeparatorStyle': 'NONE', 'contentDirection': 'LEFT_TO_RIGHT', 'sectionType': 'CONTINUOUS' }
+                }
+            },
+            {
+                'startIndex': 1, 'endIndex': 26, 'paragraph':
+                {
+                    'elements': [
+                        {
+                            'startIndex': 1, 'endIndex': 26, 'textRun':
+                            {
+                                'content': 'Why reading is important\n',
+                                'textStyle':
+                                {
+                                    'bold': True,
+                                    'foregroundColor':
+                                    {
+                                        'color':
+                                        {
+                                            'rgbColor':
+                                                { 'red': 0.20392157, 'green': 0.20784314, 'blue': 0.25490198 }
+                                        }
+                                    },
+                                    'fontSize': { 'magnitude': 12, 'unit': 'PT' },
+                                    'weightedFontFamily': { 'fontFamily': 'Roboto', 'weight': 400 }
+                                }
+                            }
+                        }],
+                    'paragraphStyle': { 'namedStyleType': 'NORMAL_TEXT', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            },
+            {
+                'startIndex': 26,
+                'endIndex': 27,
+                'paragraph': {
+                    'elements': [{
+                        'startIndex': 26,
+                        'endIndex': 27,
+                        'textRun':
+                        {
+                            'content': '\n',
+                            'textStyle': {
+                                'foregroundColor': {
+                                    'color': { 'rgbColor': { 'red': 0.20392157, 'green': 0.20784314, 'blue': 0.25490198 } }
+                                },
+                                'fontSize': { 'magnitude': 12, 'unit': 'PT' },
+                                'weightedFontFamily': { 'fontFamily': 'Roboto', 'weight': 400 }
+                            }
+                        }
+                    }],
+                    'paragraphStyle': { 'namedStyleType': 'NORMAL_TEXT', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            },
+            {
+                'startIndex': 27,
+                'endIndex': 749,
+                'paragraph': {
+                    'elements': [
+                        {
+                            'startIndex': 27, 'endIndex': 748, 'textRun':
+                            {
+                                'content': "Reading is an essential activity that provides numerous benefits to individuals of all ages. First and foremost, reading improves cognitive function, including memory, focus, and concentration. Additionally, reading enhances vocabulary, language skills, and communication abilities. Reading also provides a source of entertainment, relaxation, and escapism. Moreover, it expands knowledge and understanding of different cultures, perspectives, and ideas. Ultimately, reading is a fundamental skill that opens up opportunities for personal and professional growth. Whether it's a novel, a newspaper article, or an instructional manual, reading is a valuable and enriching activity that should be cultivated and encouraged.",
+                                'textStyle':
+                                {
+                                    'foregroundColor': { 'color': { 'rgbColor': { 'red': 0.20392157, 'green': 0.20784314, 'blue': 0.25490198 } } },
+                                    'fontSize': { 'magnitude': 12, 'unit': 'PT' },
+                                    'weightedFontFamily':
+                                        { 'fontFamily': 'Roboto', 'weight': 400 }
+                                }
+                            }
+                        },
+                        {
+                            'startIndex': 748, 'endIndex': 749, 'textRun':
+                            {
+                                'content': '\n', 'textStyle': {
+                                    'foregroundColor':
+                                    {
+                                        'color': {
+                                            'rgbColor':
+                                                { 'red': 0.20392157, 'green': 0.20784314, 'blue': 0.25490198 }
+                                        }
+                                    },
+                                    'fontSize': { 'magnitude': 12, 'unit': 'PT' }, 'weightedFontFamily': { 'fontFamily': 'Roboto', 'weight': 400 }
+                                }
+                            }
+                        }],
+                    'paragraphStyle': { 'namedStyleType': 'NORMAL_TEXT', 'alignment': 'JUSTIFIED', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            },
+
+            {
+                'startIndex': 749,
+                'endIndex': 750,
+                'paragraph':
+                {
+                    'elements': [
+                        {
+                            'startIndex': 749,
+                            'endIndex': 750,
+                            'textRun':
+                            {
+                                'content': '\n', 'textStyle': {
+                                    'foregroundColor':
+                                    {
+                                        'color': {
+                                            'rgbColor':
+                                                { 'red': 0.20392157, 'green': 0.20784314, 'blue': 0.25490198 }
+                                        }
+                                    }, 'fontSize':
+                                        { 'magnitude': 12, 'unit': 'PT' }, 'weightedFontFamily':
+                                        { 'fontFamily': 'Roboto', 'weight': 400 }
+                                }
+                            }
+                        }],
+                    'paragraphStyle':
+                        { 'namedStyleType': 'NORMAL_TEXT', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            },
+            {
+                'startIndex': 750,
+                'endIndex': 752,
+                'paragraph': {
+                    'elements': [
+                        {
+                            'startIndex': 750,
+                            'endIndex': 751,
+                            'inlineObjectElement': { 'inlineObjectId': 'kix.bu0z9sqan651', 'textStyle': {} }
+                        },
+                        {
+                            'startIndex': 751,
+                            'endIndex': 752,
+                            'textRun': { 'content': '\n', 'textStyle': {} }
+                        }],
+                    'paragraphStyle': { 'namedStyleType': 'NORMAL_TEXT', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            },
+            {
+                'startIndex': 752,
+                'endIndex': 780,
+                'paragraph': {
+                    'elements': [
+                        {
+                            'startIndex': 752,
+                            'endIndex': 779,
+                            'textRun': { 'content': 'Girl and young man studying', 'textStyle': { 'fontSize': { 'magnitude': 10, 'unit': 'PT' } } }
+                        },
+                        {
+                            'startIndex': 779,
+                            'endIndex': 780,
+                            'textRun': { 'content': '\n', 'textStyle': {} }
+                        }],
+                    'paragraphStyle': { 'headingId': 'h.6s1i5pmp4r09', 'namedStyleType': 'SUBTITLE', 'alignment': 'CENTER', 'direction': 'LEFT_TO_RIGHT' }
+                }
+            }]
+    },
+
+    'documentStyle':
+    {
+        'background': { 'color': { } },
+        'pageNumberStart': 1,
+            'marginTop': { 'magnitude': 72, 'unit': 'PT' },
+        'marginBottom': { 'magnitude': 72, 'unit': 'PT' },
+        'marginRight': { 'magnitude': 72, 'unit': 'PT' },
+        'marginLeft': { 'magnitude': 72, 'unit': 'PT' },
+        'pageSize': {
+            'height': { 'magnitude': 841.8897637795277, 'unit': 'PT' },
+            'width': { 'magnitude': 595.2755905511812, 'unit': 'PT' }
+        },
+        'marginHeader': { 'magnitude': 36, 'unit': 'PT' },
+        'marginFooter': { 'magnitude': 36, 'unit': 'PT' },
+        'useCustomHeaderFooterMargins': True
+    },
+
+    'namedStyles':
+    {
+        'styles': [
+            {
+                'namedStyleType': 'NORMAL_TEXT',
+                'textStyle':
+                {
+                    'bold': False,
+                    'italic': False,
+                    'underline': False,
+                    'strikethrough': False,
+                    'smallCaps': False,
+                    'backgroundColor': {},
+                    'foregroundColor': { 'color': { 'rgbColor': {} } },
+                    'fontSize': { 'magnitude': 11, 'unit': 'PT' },
+                    'weightedFontFamily': { 'fontFamily': 'Arial', 'weight': 400 },
+                    'baselineOffset': 'NONE'
+                },
+                'paragraphStyle': {
+                    'namedStyleType': 'NORMAL_TEXT',
+                    'alignment': 'START',
+                    'lineSpacing': 115,
+                    'direction': 'LEFT_TO_RIGHT',
+                    'spacingMode': 'COLLAPSE_LISTS',
+                    'spaceAbove': { 'unit': 'PT' },
+                    'spaceBelow': { 'unit': 'PT' },
+                    'borderBetween': {
+                        'color': {},
+                        'width': { 'unit': 'PT' },
+                        'padding': { 'unit': 'PT' },
+                        'dashStyle': 'SOLID'
+                    },
+                },
+                'borderTop': {
+                    'color': {},
+                    'width': { 'unit': 'PT' },
+                    'padding': { 'unit': 'PT' },
+                    'dashStyle': 'SOLID'
+                },
+                'borderBottom': {
+                    'color': {},
+                    'width': { 'unit': 'PT' },
+                    'padding': { 'unit': 'PT' },
+                    'dashStyle': 'SOLID'
+                },
+                'borderLeft': {
+                    'color': {},
+                    'width': { 'unit': 'PT' },
+                    'padding': { 'unit': 'PT' },
+                    'dashStyle': 'SOLID'
+                },
+                'borderRight': {
+                    'color': {},
+                    'width': { 'unit': 'PT' },
+                    'padding': { 'unit': 'PT' },
+                    'dashStyle': 'SOLID'
+                },
+                'indentFirstLine': { 'unit': 'PT' },
+                'indentStart': { 'unit': 'PT' },
+                'indentEnd': { 'unit': 'PT' },
+                'keepLinesTogether': False,
+                'keepWithNext': False,
+                'avoidWidowAndOrphan': True,
+                'shading': { 'backgroundColor': {} },
+                'pageBreakBefore': False
+            }
+            },
+    {
+        'namedStyleType': 'HEADING_1',
+            'textStyle': { 'fontSize': { 'magnitude': 20, 'unit': 'PT' } },
+        'paragraphStyle': {
+            'namedStyleType': 'NORMAL_TEXT',
+                'direction': 'LEFT_TO_RIGHT',
+                    'spaceAbove': { 'magnitude': 20, 'unit': 'PT' },
+            'spaceBelow': { 'magnitude': 6, 'unit': 'PT' },
+            'keepLinesTogether': True, 'keep_TEXT',
+                'direction': 'LEFT_TO_RIGHT',
+                    'spaceAbove': { 'unit': 'PT' },
+            'spaceBelow': { 'magnitude': 3, 'unit': 'PT' },
+            'keepLinesTogether': True,
+                'keepWithNext': True,
+                    'pageBreakBefore': False
+        }
+    },
+    {
+        'namedStyleType': 'SUBTITLE',
+            'textStyle': {
+            'italic': False,
+                'foregroundColor': { 'color': { 'rgbColor': { 'red': 0.4, 'green': 0.4, 'blue': 0.4 } } },
+            'fontSize': { 'magnitude': 15, 'unit': 'PT' },
+            'weightedFontFamily': { 'fontFamily': 'Arial', 'weight': 400 }
+        },
+        'paragraphStyle': {
+            'namedStyleType': 'NORMAL_TEXT', 'direction': 'LEFT_TO_RIGHT', 'spaceAbove': { 'unit': 'PT' },
+            'spaceBelow': { 'magnitude': 16, 'unit': 'PT' },
+            'keepLinesTogether': True,
+                'keepWithNext': True,
+                    'pageBreakBefore': False
+        }
+    }]
+},
+'revisionId': 'AGbAtPpXI7jqmOzFRRnPwAc4brR_VOPO_-IsKVxEfGlOxK7EOpFowFVufBusYoAcpsEeRyqHFgb-I2exdsNnyw',
+    'suggestionsViewMode': 'SUGGESTIONS_INLINE',
+        'inlineObjects': {
+    'kix.bu0z9sqan651': {
+        'objectId': 'kix.bu0z9sqan651',
+            'inlineObjectProperties': {
+            'embeddedObject': {
+                'imageProperties': {
+                    'contentUri': 'https://lh3.googleusercontent.com/docs/AG8NV2bNngpcOVrtGY7OEO_BLaTWP44gtAMiaxESz4vdmJYAN1eru8LdV5oIwCBGJL23eP1KaZGucGW7XCEFeXofKtWiHoN0fLAuwiPUEoMm8ercE79lfGbkaaFZNXbNkle3KbvyJcSfRS3AWHGXnfY1sD6lkX3OPhfMJUgGqUQr7ChP1gZ-DhxhxlRZlFBOYiIQ', 'cropProperties': { }
+                },
+                'title': 'Girl and young man studying',
+                    'description': 'In this picture I can see a girl and a boy sitting at the table doing homework. Probably they are brother and sister.\n\n\nThey are both in the middle of the picture. There are books and notebooks on the table. She looks like she is 17 years old and he looks like he is 12 or 13. It looks like she is helping him with his homework. Maybe she is explaining something on a page in his book. The girl is wearing a white jumper and the boy is wearing glasses and a black and gray sweater. They both have dark hair. They seem happy.',
+                        'embeddedObjectBorder': {
+                    'color': { 'color': { 'rgbColor': { } } },
+                    'width': { 'unit': 'PT' },
+                    'dashStyle': 'SOLID',
+                        'propertyState': 'NOT_RENDERED'
+                },
+                'size': {
+                    'height': { 'magnitude': 303.75, 'unit': 'PT' },
+                    'width': { 'magnitude': 451.5, 'unit': 'PT' }
+                },
+                'marginTop': { 'magnitude': 9, 'unit': 'PT' },
+                'marginBottom': { 'magnitude': 9, 'unit': 'PT' },
+                'marginRight': { 'magnitude': 9, 'unit': 'PT' },
+                'marginLeft': { 'magnitude': 9, 'unit': 'PT' }
+            }
+        }
+    }
+},
+
+'documentId': '15qHwRU4n_LwdzLwp0xqcvveQtwQ1UijvVgxRSOIJtJw'
+
+}
